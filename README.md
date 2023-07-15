@@ -59,6 +59,7 @@ The website is built using the following technologies:
 - HTML
 - CSS
 - JavaScript
+- External : Google Font and IonIcon
 
 ## How to Run the Website Locally
 1. Make sure you have [Git](https://git-scm.com/) installed on your computer.
