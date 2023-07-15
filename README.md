@@ -108,7 +108,7 @@ If you would like to contribute to the development of the Antariksa Website, you
 Specify the license you have chosen for this project. Example: This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information
 
 ## Development Team
-- Developer Name - [GitHub Username](https://github.com/m-istighfar)
+- Developer Name - [m-istighfar](https://github.com/m-istighfar)
 For any questions or feedback, please contact the development team via [email](mailto:istighfar.amal@gmail.com).
 
 ## Development Process
