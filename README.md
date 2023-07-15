@@ -66,15 +66,13 @@ The website is built using the following technologies:
 3. Run the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/antariksa-website.git
+   git clone https://github.com/RevoU-FSSE-2/week-5-m-istighfar.git
    ```
-
-   Replace `your_username` with your GitHub username.
 
 4. Once the cloning is complete, navigate to the project folder:
 
    ```bash
-   cd antariksa-website
+   cd week-5-m-istighfar
    ```
 
 5. Open the `index.html` file using a web browser.
